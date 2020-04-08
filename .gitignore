@@ -1,0 +1,21 @@
+#ignore *.o files
+*.o
+
+# ignore all bin directories (default directory for compiled classes in Eclipse
+bin/
+
+# ignore all target directories
+target/
+
+# ignore all files ending with a ~
+*~
+
+# ignore all log files
+*.log
+*.log.*
+
+com.sagem.sdk.platform/*
+
+*.zip
+
+
