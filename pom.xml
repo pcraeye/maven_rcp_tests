@@ -12,6 +12,7 @@
  </parent>
 
  <modules>
+ 	<module>org.ihmconfinee.core</module>
  </modules>
 </project>
 
