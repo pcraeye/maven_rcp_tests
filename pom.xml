@@ -13,6 +13,7 @@
 
  <modules>
  	<module>org.ihmconfinee.core</module>
+ 	<module>org.ihmconfinee.plugin.linux</module>
  </modules>
 </project>
 
